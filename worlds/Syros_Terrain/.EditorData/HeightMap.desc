@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "G:/Arma Mods/Reforger Tools/Syros/heightmap_-84.83033091288235_32.37050990079085_6.png"
+ Flags 5
+ MinHeight -1000000
+ ResampleMinHeight 55.7
+ ResampleMaxHeight 154.7
+}

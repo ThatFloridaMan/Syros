@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "G:/Arma Mods/Reforger Tools/Syros/satmap.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}
