@@ -1,0 +1,8 @@
+GameProject {
+ ID "Syros"
+ GUID "65940767D9C160D3"
+ TITLE "Syros"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
