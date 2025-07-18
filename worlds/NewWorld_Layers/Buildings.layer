@@ -1,0 +1,21 @@
+SCR_DestructibleBuildingEntity : "{18B2439FBF6CADFD}Prefabs/Structures/Houses/Farm/FarmHouse_E_1L01/FarmHouse_E_1L01_Wood.et" {
+ coords 2961.863 0 101.197
+ angleY -113.852
+}
+SCR_DestructibleBuildingEntity : "{99F6E8E52B71B137}Prefabs/Structures/Agriculture/Barn/Barn_E_01/Barn_E_01.et" {
+ coords 2790.115 0.145 321.839
+ angleY 154.471
+}
+GenericEntity : "{F34E4A33FB471ECA}Prefabs/Structures/Wreck/tractor.et" {
+ coords 2946.613 37.906 89.686
+ angleY 7.208
+}
+$grp SCR_DestructibleBuildingEntity : "{F5A2DC0597B53E19}Prefabs/Structures/Agriculture/Barn/Barn_E_02/Barn_E_02.et" {
+ {
+  coords 2928.658 0 86.048
+  angleY -87.302
+ }
+ {
+  coords 2939.922 0 98.458
+ }
+}

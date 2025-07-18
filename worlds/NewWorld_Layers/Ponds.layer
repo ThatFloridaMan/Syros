@@ -1,0 +1,28 @@
+PolylineShapeEntity : "{DDAAF81A4EF5743A}Prefabs/Helper/Closed_Polyline.et" {
+ coords 3077.424 37.885 251.473
+ Points {
+  ShapePoint "{65D90413D3B3171D}" {
+   Position -21.328 0.524 55.975
+  }
+  ShapePoint "{65D90413D35C489B}" {
+   Position -23.11 0.814 83.355
+  }
+  ShapePoint "{65D90413D2EB2E12}" {
+   Position 27.414 3.82 83.334
+  }
+  ShapePoint "{65D90413D1D5094E}" {
+   Position 45.941 1.657 10.181
+  }
+  ShapePoint "{65D90413D17FCFE6}" {
+   Position -35.371 -0.16 3.357
+  }
+  ShapePoint "{65D90413D013612F}" {
+   Position -35.772 1.453 53.398
+  }
+ }
+ {
+  LakeGeneratorEntity : "{1F2254A7C9C8AA57}Prefabs/WEGenerators/Water/Lake/LG_Lake_01.et" {
+   coords 0 0 0
+  }
+ }
+}

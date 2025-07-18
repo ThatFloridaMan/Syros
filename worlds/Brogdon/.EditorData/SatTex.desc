@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "G:/Arma Mods/Reforger Tools/Syros/map-image_mapbox_satellite-v9_-80.1970638254922_33.782107076532284_10.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

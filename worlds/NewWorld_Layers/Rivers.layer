@@ -1,0 +1,98 @@
+PolylineShapeEntity : "{8C72F015FAF85A07}Prefabs/Helper/Open_Polyline.et" {
+ coords 1924.617 40.132 452.923
+ Points {
+  ShapePoint "{65E555266290A126}" {
+   Position 467.997 -6.1 -452.79
+  }
+  ShapePoint "{65E5552662FED33D}" {
+   Position 467.811 -6.37 -441.283
+  }
+  ShapePoint "{65E55526622D20D7}" {
+   Position 456.612 -6.332 -417.202
+  }
+  ShapePoint "{65E5552662628070}" {
+   Position 441.363 -5.693 -395.514
+  }
+  ShapePoint "{65E555266157E1C7}" {
+   Position 416.847 -4.002 -374.937
+  }
+  ShapePoint "{65E5552660490F9B}" {
+   Position 392.298 -2.844 -348.418
+  }
+  ShapePoint "{65E555266FB468BA}" {
+   Position 373.542 -2.72 -329.438
+  }
+  ShapePoint "{65E555266F0953A3}" {
+   Position 358.5 -2.45 -308.469
+  }
+  ShapePoint "{65E555266F6590AA}" {
+   Position 341.891 -2.654 -281.233
+  }
+  ShapePoint "{65E555266C610DAE}" {
+   Position 330.48 -2.946 -262.185
+  }
+  ShapePoint "{65E555266A94D59E}" {
+   Position 301.109 -3.44 -216.875
+  }
+  ShapePoint "{65E555266AC4BA73}" {
+   Position 287.572 -2.762 -200.899
+  }
+  ShapePoint "{65E555266A3A577B}" {
+   Position 274.817 -2.196 -189.759
+  }
+  ShapePoint "{65E5552677C5063E}" {
+   Position 252.397 -1.479 -183.834
+  }
+  ShapePoint "{65E5552676B82810}" {
+   Position 218.006 -1.093 -168.525
+  }
+  ShapePoint "{65E5552676FBF7E4}" {
+   Position 184.973 -1.174 -142.569
+  }
+  ShapePoint "{65E555267511D154}" {
+   Position 156.659 -1.567 -115.613
+  }
+  ShapePoint "{65E55526745980DB}" {
+   Position 139.144 -1.466 -98.98
+  }
+  ShapePoint "{65E555267361E041}" {
+   Position 120.444 -1.226 -87.982
+  }
+  ShapePoint "{65E55526720B7020}" {
+   Position 88.574 -0.515 -75.541
+  }
+  ShapePoint "{65E55526719FD2E8}" {
+   Position 72.2 -0.126 -65.432
+  }
+  ShapePoint "{65E555267FA20947}" {
+   Position 58.674 0.02 -55.796
+  }
+  ShapePoint "{65E555267F6C5B1D}" {
+   Position 35.849 0.438 -33.871
+  }
+  ShapePoint "{65E555267C976466}" {
+   Position 14.703 0.518 -15.431
+  }
+  ShapePoint "{65D8FCF61EFB05FC}" {
+   Position 0.066 1.64 -0.073
+  }
+  ShapePoint "{65E555263DD630BA}" {
+   Position -10.498 1.397 11.531
+  }
+  ShapePoint "{65E555263E5093FE}" {
+   Position -20.042 1.295 20.566
+  }
+  ShapePoint "{65E555263F4006AE}" {
+   Position -32.073 1.081 31.156
+  }
+ }
+ {
+  RiverEntity : "{B7B923DFE6B4F9B9}Prefabs/WEGenerators/Water/River/R_RiverMedium_01.et" {
+   coords 0 0 0
+   Width 24
+   SplineOffsetUp 0.2
+   GUID "65E55526523084DE"
+   WaterOffset 0
+  }
+ }
+}

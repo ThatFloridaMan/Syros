@@ -1,0 +1,9 @@
+PolylineShapeEntity {
+ ID "65D8FCF61337B2FE"
+ coords 3198.556 41.167 262.505
+ Points {
+  ShapePoint "{65D8FCF61EFB05FC}" {
+   Position 0 0 0
+  }
+ }
+}

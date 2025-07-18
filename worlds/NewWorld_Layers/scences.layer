@@ -1,0 +1,190 @@
+GenericEntity : "{03E5BE9B8EB2FB2C}Prefabs/Structures/Civilian/SportGrounds/PlaygroundClimber_01.et" {
+ coords 2954.224 39.065 122.534
+}
+StaticModelEntity : "{07F043DD6AACCD0B}Prefabs/Structures/Infrastructure/Barriers/BarGate_01/BarGate_01.et" {
+ coords 2403.775 -0.061 106.973
+ angleY -63.139
+}
+GenericEntity : "{1E20A8400CBEF3A9}Prefabs/Structures/Civilian/SportGrounds/PlaygroundSwing_01.et" {
+ coords 2949.835 38.824 117.686
+}
+GenericEntity : "{3532649D6B93B0D9}Prefabs/Structures/Civilian/SportGrounds/PlaygroundSlide_01.et" {
+ coords 2952.236 38.665 113.721
+ angleY 65.378
+}
+StaticModelEntity : "{41CBD4EACE885735}Prefabs/Structures/Infrastructure/Sewage/ManholeCover_E_02/ManholeCover_E_02.et" {
+ coords 3073.556 38.883 332.09
+}
+GenericEntity : "{532E2709E33FA192}Prefabs/Structures/BuildingParts/Bridges/BridgeRailingConcrete_01_pole.et" {
+ coords 3073.513 35.705 332.104
+ scale 2.257
+}
+$grp GenericEntity : "{56CF62993AA1EF58}Prefabs/Structures/Signs/Generic/SignGeneric_01_NoEntry_V1_pole.et" {
+ {
+  coords 2405.159 39.036 111.416
+  angleY -65.675
+ }
+ {
+  coords 2401.177 39.468 103.358
+  angleY -61.789
+ }
+}
+$grp StaticModelEntity : "{5BDA0DA9FCFC98B9}Prefabs/Structures/Infrastructure/Pavements/ConcreteKerb_01/ConcreteKerb_01_2m_entry.et" {
+ {
+  coords 2395.725 -0 94.64
+  angleY 14.18
+ }
+ {
+  coords 2392.927 0 95.374
+  angleY 21.174
+ }
+ {
+  coords 2389.897 0 96.365
+  angleY 16.005
+ }
+ {
+  coords 2386.93 0 96.06
+  angleY -6.049
+ }
+ {
+  coords 2383.675 0 97.477
+  angleY 9.82
+ }
+ {
+  coords 2380.553 0 98.068
+  angleY 15.105
+ }
+}
+$grp GenericEntity : "{5E99DD1E8377D27F}Prefabs/Props/Garbage/Bins/TrashBin_02.et" {
+ {
+  coords 2375.533 39.5 98.59
+ }
+ {
+  coords 2399.861 39.5 94.517
+ }
+}
+GenericEntity : "{6358CFA73325EF5A}Prefabs/Structures/Signs/Generic/SignGeneric_01_DumpingProhibited_pole.et" {
+ coords 2374.787 39.508 99.115
+ angleY 56.668
+}
+GenericEntity : "{645EFF51289096E0}Prefabs/Structures/Recreation/Beach/LatrineBeach_01/LatrineBeach_01_brown.et" {
+ coords 2372.274 39.837 105.402
+ angleY 52.696
+}
+GenericEntity : "{67545F06412AA7E4}Prefabs/Structures/Civilian/SportGrounds/PlaygroundSphere_01.et" {
+ coords 2955.777 38.874 118.977
+}
+$grp GenericEntity : "{6A8D0F8B78685E0A}Prefabs/Props/Agriculture/Farm/HayBale_01.et" {
+ {
+  coords 2853.198 38.381 67.064
+  angleY 50.314
+ }
+ {
+  coords 2869.804 38.269 133.397
+  angleY -25.455
+ }
+ {
+  coords 2856.434 37.822 114.74
+  angleY -25.455
+ }
+ {
+  coords 2827.146 38.234 131.398
+  angleY -25.455
+ }
+ {
+  coords 3121.682 37.006 68.191
+  angleY 0
+ }
+ {
+  coords 3079.997 37.75 54.831
+  angleY 0
+ }
+ {
+  coords 3001.745 37.132 41.777
+  angleY 0
+ }
+ {
+  coords 2893.803 37.747 52.926
+  angleY 50.314
+ }
+ {
+  coords 2865.683 37.435 86.387
+  angleY 50.314
+ }
+ {
+  coords 2878.99 37.623 14.957
+  angleY 50.314
+ }
+ {
+  coords 2917.903 36.167 8.352
+  angleY 50.314
+ }
+ {
+  coords 3081.839 37.746 86.868
+  angleY 0
+ }
+ {
+  coords 3070.495 37.845 35.571
+  angleY 0
+ }
+ {
+  coords 3092.572 37.294 13.432
+  angleY 0
+ }
+ {
+  coords 2946.933 38.375 171.289
+  angleY -25.455
+ }
+ {
+  coords 2875.215 38.812 179.482
+  angleY -25.455
+ }
+ {
+  coords 2932.74 38.438 190.526
+  angleY -25.455
+ }
+ {
+  coords 2897.672 38.52 165.643
+  angleY -25.455
+ }
+ {
+  coords 2981.456 36.795 10.433
+  angleY 0
+ }
+ {
+  coords 2879.123 38.183 39.436
+  angleY 50.314
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{FD1CE2903D41D4A7}Prefabs/Structures/Walls/Concrete/ConcreteRetainingWall_01/ConcreteRetainingWall_01_8m.et" {
+ {
+  coords 2334.533 37.036 111.603
+  angleY 4.461
+  scale 0.787
+ }
+ {
+  coords 2328.278 37.036 112.091
+  angleY 4.461
+  scale 0.787
+ }
+ {
+  coords 2322.076 37.036 113.757
+  angleY 4.461
+  scale 0.787
+ }
+ {
+  coords 2328.37 37.036 113.266
+  angleY 4.461
+  scale 0.787
+ }
+ {
+  coords 2321.984 37.036 112.582
+  angleY 4.461
+  scale 0.787
+ }
+ {
+  coords 2334.625 37.036 112.778
+  angleY 4.461
+  scale 0.787
+ }
+}

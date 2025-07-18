@@ -1,0 +1,254 @@
+PolylineShapeEntity : "{DDAAF81A4EF5743A}Prefabs/Helper/Closed_Polyline.et" {
+ coords 3111.804 39.262 328.429
+ Points {
+  ShapePoint "{65D904121C19468E}" {
+   Position -43.926 0 -71.493
+  }
+  ShapePoint "{65D904121BB7196C}" {
+   Position 13.391 0 -66.677
+  }
+  ShapePoint "{65D90412210BEAF6}" {
+   Position -5.318 0 9.157
+  }
+  ShapePoint "{65D90412241A6C9C}" {
+   Position -56.969 0 6.412
+  }
+  ShapePoint "{65D904122542F326}" {
+   Position -55.494 0 -20.719
+  }
+  ShapePoint "{65D9041225A7441B}" {
+   Position -70.528 0 -23.681
+  }
+  ShapePoint "{65D904122757C79C}" {
+   Position -69.444 0 -72.447
+  }
+  ShapePoint "{65D904121DCF3CF2}" {
+   Position -50.323 0 -71.963
+  }
+ }
+ IsClosed 0
+ LineColor 0 0 0 0
+ {
+  WallGeneratorEntity : "{14F1ED847BB7A27F}Prefabs/WEGenerators/Walls/Net/WG_NetFence_02.et" {
+   Flags 1048579
+   GeneratorType GeneratorTypeClimbable "{65D9041198ECDEF9}" {
+   }
+   m_iSeed 40
+   m_fSplineSafetyDistanceRatio 0.93
+   m_bSculptTerrain 1
+   m_iTerrainSculptingPriority 10
+   m_fTerrainSculptingPathWidth 0
+   m_fTerrainSculptingFallOffWidth 1
+   {
+    $grp SCR_DestructibleEntity : "{2DEFFC3B4DE1E33A}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_2m.et" {
+     {
+      coords -4.574 0.092 5.828
+      angleY -102.596
+     }
+     {
+      coords -55.502 0.047 -17.411
+      angleY 89.864
+     }
+     {
+      coords -69.468 -0.232 -70.041
+      angleY 89.436
+     }
+    }
+    $grp SCR_DestructibleEntity : "{53033606D585B9AC}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_Pole_A.et" {
+     {
+      coords 8.191 0.139 -51.295
+      angleY -102.596
+     }
+     {
+      coords -16.927 -0.924 7.485
+      angleY -181.535
+     }
+     {
+      coords -55.466 0.082 -19.427
+      angleY -195.77
+     }
+     {
+      coords -69.769 0.058 -39.422
+      angleY 89.436
+     }
+     {
+      coords -61.508 -0.414 -72.023
+      angleY -0.31
+     }
+    }
+    $grp SCR_DestructibleEntity : "{5AE594B3B9430C4A}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_4m.et" {
+     {
+      coords 7.667 -0.012 -67.158
+      angleY -4.802
+     }
+     {
+      coords -3.707 -0.074 1.948
+      angleY -102.596
+     }
+     {
+      coords -55.511 0.11 -13.436
+      angleY 89.864
+     }
+     {
+      coords -66.07 0.107 -22.422
+      angleY -195.77
+     }
+     {
+      coords -69.507 -0.116 -66.066
+      angleY 89.436
+     }
+    }
+    $grp SCR_DestructibleEntity : "{893BE362D9B33A4B}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_D.et" {
+     {
+      coords 7.526 -0.124 -48.321
+      angleY -102.596
+     }
+     {
+      coords -43.879 -0.265 6.763
+      angleY -181.535
+     }
+     {
+      coords -69.661 0.001 -50.439
+      angleY 89.436
+     }
+    }
+    $grp SCR_DestructibleEntity : "{B59CE95D8C16A8B0}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_4m_D.et" {
+     {
+      coords -12.183 -0.447 -68.826
+      angleY -4.802
+     }
+     {
+      coords -12.952 -0.549 7.592
+      angleY -181.535
+     }
+     {
+      coords -55.539 0.283 -1.489
+      angleY 89.864
+     }
+     {
+      coords -69.624 -0.046 -54.119
+      angleY 89.436
+     }
+    }
+    $grp SCR_DestructibleEntity : "{CBB323D90F2FF29F}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_8m.et" {
+     {
+      coords -43.957 -0.112 -71.495
+      angleY -4.802
+     }
+     {
+      coords -36.014 -0.338 -70.828
+      angleY -4.802
+     }
+     {
+      coords -28.07 -0.229 -70.161
+      angleY -4.802
+     }
+     {
+      coords -20.126 -0.059 -69.493
+      angleY -4.802
+     }
+     {
+      coords -8.22 -0.067 -68.493
+      angleY -4.802
+     }
+     {
+      coords -0.276 -0.254 -67.826
+      angleY -4.802
+     }
+     {
+      coords 11.667 0.037 -66.854
+      angleY -102.596
+     }
+     {
+      coords 9.929 0.32 -59.074
+      angleY -102.596
+     }
+     {
+      coords 6.724 -0.543 -44.73
+      angleY -102.596
+     }
+     {
+      coords 4.985 -0.612 -36.951
+      angleY -102.596
+     }
+     {
+      coords 3.247 -0.069 -29.171
+      angleY -102.596
+     }
+     {
+      coords 1.508 -0.119 -21.391
+      angleY -102.596
+     }
+     {
+      coords -0.23 -0.277 -13.611
+      angleY -102.596
+     }
+     {
+      coords -1.968 -0.3 -5.832
+      angleY -102.596
+     }
+     {
+      coords -4.983 0.105 7.805
+      angleY -181.535
+     }
+     {
+      coords -19.973 -0.961 7.403
+      angleY -181.535
+     }
+     {
+      coords -27.942 -0.485 7.19
+      angleY -181.535
+     }
+     {
+      coords -35.91 -0.087 6.976
+      angleY -181.535
+     }
+     {
+      coords -47.557 -0.236 6.664
+      angleY -181.535
+     }
+     {
+      coords -55.558 -0.012 6.482
+      angleY 89.864
+     }
+     {
+      coords -55.53 0.329 -5.465
+      angleY 89.864
+     }
+     {
+      coords -58.398 0.136 -20.255
+      angleY -195.77
+     }
+     {
+      coords -69.926 0.044 -23.479
+      angleY 89.436
+     }
+     {
+      coords -69.848 0.017 -31.45
+      angleY 89.436
+     }
+     {
+      coords -69.739 -0.008 -42.468
+      angleY 89.436
+     }
+     {
+      coords -69.585 -0.067 -58.095
+      angleY 89.436
+     }
+     {
+      coords -69.48 -0.107 -72.066
+      angleY -0.31
+     }
+     {
+      coords -58.462 -0.359 -72.007
+      angleY -0.31
+     }
+    }
+    SCR_DestructibleEntity : "{EDBF917B5A553026}Prefabs/Structures/Walls/Net/NetFence_02/NetFence_02_Pole_B.et" {
+     coords -52.072 -0.268 -71.972
+     angleY -0.31
+    }
+   }
+  }
+ }
+}

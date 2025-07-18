@@ -1,0 +1,9 @@
+SplineShapeEntity {
+ ID "65D8FCF60BDA24F9"
+ coords 3176.974 48.683 271.627
+ Points {
+  ShapePoint "{65D8FCF617160B29}" {
+   Position 0 0 0
+  }
+ }
+}
