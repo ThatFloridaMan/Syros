@@ -73,9 +73,6 @@ PolylineShapeEntity : "{8C72F015FAF85A07}Prefabs/Helper/Open_Polyline.et" {
   ShapePoint "{65E555267C976466}" {
    Position 14.703 0.518 -15.431
   }
-  ShapePoint "{65D8FCF61EFB05FC}" {
-   Position 0.066 1.64 -0.073
-  }
   ShapePoint "{65E555263DD630BA}" {
    Position -10.498 1.397 11.531
   }
